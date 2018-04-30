@@ -1,0 +1,5 @@
+.mk_adblock_content{ margin-bottom:15px }
+.mk_adblock{ background:#343434; padding:20px; border:1px solid #ddd }
+.mk_adblock_close{ position: absolute; background: #5b5b5b; color: #fff; margin: -30px; width: 30px; height: 30px; text-align: center; line-height: 30px; border-radius: 30px; } 
+.mk_adblock_title{ text-align:center; color:#fff; font-size:20px; font-weight:bold; text-transform:uppercase; border-bottom:2px solid #5b5b5b }
+.mk_adblock_desc{ margin-top:15px; color:#fff }
